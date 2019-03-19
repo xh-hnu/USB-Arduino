@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">USB Arduino</string>
+    <string name="send_data">发送数据</string>
+</resources>
